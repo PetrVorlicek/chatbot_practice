@@ -2,12 +2,9 @@ import os
 from dataclasses import dataclass, field
 from typing import Any
 
-from dotenv import load_dotenv
 from openai import OpenAI
 
 from settings import settings
-
-load_dotenv()
 
 
 BASE_SYSTEM_PROMPT = (

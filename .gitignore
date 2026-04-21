@@ -11,3 +11,6 @@ wheels/
 
 # Environment variables
 .env
+
+# Semantic search database
+ai/semantic_docs.sqlite3
