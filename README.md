@@ -21,6 +21,7 @@ This is a demo project using a Warhammer 40,000-inspired knowledge base (Space M
 ## Run locally
 
 ```bash
+make seed-docs
 make dev
 ```
 
@@ -28,5 +29,27 @@ The development server runs with hot reload enabled.
 
 Server default: `http://localhost:8000`
 
-# Semantic search over support documentation
-In this demo, we store the vectors as BLOBs in a standard SQLite table. When a query comes in, we pull the vectors into memory and calculate the similarity using *numpy* - the gold standard of Python math libraries.
+## Semantic search over support documentation
+
+In this demo, vectors are stored as BLOBs in SQLite. At query time, vectors are loaded into memory and ranked with cosine similarity using `numpy`.
+
+### Seed documentation vectors
+
+```bash
+make seed-docs
+```
+
+This command:
+
+- reads `documents/*.txt`
+- chunks text with overlap
+- calls the embeddings endpoint
+- stores text + vector blobs in `ai/semantic_docs.sqlite3`
+
+### Test the chat endpoint
+
+```bash
+curl -X POST "http://localhost:8000/chat" \
+	-H "Content-Type: application/json" \
+	-d '{"user_input":"What is a bolter and when should it be used?"}'
+```
