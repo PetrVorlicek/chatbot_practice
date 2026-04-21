@@ -1,0 +1,89 @@
+ADEPTUS ASTARTES ARMOURY — MELTA WEAPONS FIELD MANUAL
+Issued by: Castellan Forges, Thermal Ordnance Division
+Classification: Standard Distribution
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — THE MELTAGUN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Overview:
+The Meltagun, also called a Fusion Gun or "Devil's Kiss" by the rank-and-file, is the premier anti-armour weapon available to a Space Marine at the individual level. It fires a jet of focused sub-atomic thermal energy capable of melting through virtually any known armour, including battle tank hulls, Terminator plate, and xenos carapace.
+
+Where plasma weapons destroy through explosive bolt discharge, the Meltagun focuses pure thermal energy in a narrow beam. At close range, almost nothing survives a melta hit intact.
+
+Firepower:
+The Meltagun's thermal beam can melt through 30 centimetres of the densest armour plate at close range. At maximum effective range, destructive capability drops sharply — melta weapons are inherently short-ranged. Against Astartes power armour: fatal at any range. Against main battle tank armour: highly effective within 15 metres (the weapon's maximum effective range). Against infantry: overkill; the flash vaporises the target entirely.
+
+Effective Range:
+- Optimal (maximum output): up to 12 metres
+- Extended range (diminished effect): 12–24 metres
+- Beyond 24 metres: the beam disperses and lacks armour-penetrating capability
+
+The Meltagun is the weapon of choice for breaching operations, tank hunting, and close-quarters anti-armour work. It is NOT suitable as a general infantry weapon.
+
+Rarity:
+UNCOMMON — Meltaguns are produced by Forge Worlds and distributed through Chapter armouries at squad level. One per squad is typical, though tank-hunter units (such as Eradicators) carry them as standard.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — THE INFERNO PISTOL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Inferno Pistol is a compact, pistol-sized melta weapon. It sacrifices range almost entirely in exchange for extreme portability. Favoured by assault officers, Sanguinary Guard, and veterans operating in extreme close quarters.
+
+Firepower: Equivalent to a Meltagun at absolute point-blank range (under 6 metres). Devastating.
+Effective Range: 6 metres. The Inferno Pistol is useless beyond this range.
+Rarity: RARE — Difficult to produce due to the miniaturisation requirements. Issued primarily to veteran officers and elite units.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — THE MULTI-MELTA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Multi-Melta is the heavy weapon version of the Meltagun: twin-barrelled and mounted on a backpack power feed. Used as a squad heavy weapon, vehicle-mounted weapon, or carried by Centurion suits. The Multi-Melta fires two simultaneous melta beams or can discharge in rapid succession for target saturation.
+
+Effective Range: Same as Meltagun (12–24 metres).
+Output: Roughly double that of a Meltagun. Can threaten heavy tanks and fortified positions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — PRIMARIS MELTA VARIANTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MELTA RIFLE: Standard melta weapon for Primaris Eradicators. Extended-stock design with a slight range improvement over the older Meltagun pattern. Carries a higher output resonance chamber.
+
+HEAVY MELTA RIFLE: Extended barrel version. Increased range and output. Suitable for targeting vehicles at moderate distances.
+
+MELTA BOMB: A placed melta charge rather than a fired weapon. Used for demolition and breaching hardened positions. Adheres magnetically to vehicle hulls or bunker walls. Detonation is remote or timed. Lethal to operators who do not clear the blast radius (approximately 3 metres).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5 — FUEL & POWER SUPPLY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Melta weapons require a Type-IV Thermal Charge canister. Canisters contain compressed, superheated gases maintained at extreme pressure. A standard canister provides approximately 10 firing cycles.
+
+Canister Handling:
+- Do NOT puncture a canister. Hot gas venting from a ruptured canister is lethal.
+- If a canister is damaged in combat, evacuate the area and call for Techmarine support.
+- Canisters should be stored below 40°C. Exposure to high ambient temperatures may cause pressure buildup.
+- Empty canisters are pressurised with residual gas — treat them as live until confirmed empty by the Armoury.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6 — MAINTENANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Meltaguns require less routine maintenance than plasma weapons but must be serviced carefully.
+
+Field Maintenance Protocol:
+1. Remove and secure the thermal charge canister before any maintenance work.
+2. Inspect the melta coil (the focusing array inside the barrel) for warping or material fatigue. A warped coil produces an unfocused beam and causes the weapon to vent dangerous thermal backblast.
+3. Clean internal barrel surface with a heat-resistant swab. Melta residue is a ceramic compound that builds up after sustained use.
+4. Inspect the focusing lens assembly on the barrel tip. Chips or cracks cause beam scatter — replace before use.
+5. Inspect all seals on the canister coupling port. A leaking seal will drain the canister before firing.
+6. Reapply high-temperature sealant compound to all housing joints.
+7. Recite the Litany of Focused Purpose.
+
+Common Faults:
+  - WEAK BEAM OUTPUT: Usually indicates a partially depleted canister or a worn focusing coil. Replace canister first; if problem persists, replace the coil.
+  - CANISTER COUPLING FAULT: The weapon will not pressurise. Check the coupling O-ring and replace.
+  - BACKBLAST VENTING: Dangerous. Indicates a blocked or damaged barrel. Cease use immediately and return to Armoury.
+
+Storage:
+Remove canister. Store in a ventilated armoury rack. Do not store horizontally with canister attached. The coupling seals can be stressed by the canister weight over time.

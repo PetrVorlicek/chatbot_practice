@@ -1,0 +1,102 @@
+ADEPTUS ASTARTES ARMOURY — HEAVY WEAPONS FIELD MANUAL
+Issued by: Castellan Forges, Heavy Ordnance Division
+Classification: Standard Distribution
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — HEAVY BOLTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Overview:
+The Heavy Bolter is a large-calibre, high-rate-of-fire bolt weapon. It is the heavy support backbone of most Space Marine tactical squads and vehicle armament loadouts. It fires .998 calibre bolt rounds at a sustained rate, producing tremendous volume of fire capable of cutting down multiple targets simultaneously.
+
+Firepower:
+Against infantry, the Heavy Bolter is devastating — each bolt round retains the mass-reactive, explosive properties of standard Bolter ammunition, but at a scale that can penetrate light cover. Against lightly armoured vehicles, sustained fire can breach engine compartments and exposed crew positions. Against heavy armour, the Heavy Bolter is ineffective and should not be used as a primary anti-tank tool.
+
+Effective Range: 120 metres optimal. Maximum 200 metres.
+Rate of Fire: Approximately 120 rounds per minute (cyclic).
+Magazine: Belt or drum, 60 rounds standard.
+Rarity: COMMON. Standard vehicle armament and heavy weapons squad issue.
+
+Maintenance:
+The Heavy Bolter requires more frequent maintenance than the standard Bolter due to its higher rate of fire and the stresses on the feed mechanism. Clean bolt-feed ramp and extractor claw after every 200 rounds. Replace barrel after 2,000 rounds or when groups start to enlarge noticeably.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — LASCANNON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Overview:
+The Lascannon is the primary man-portable anti-armour weapon in the Space Marine arsenal. It fires a focused beam of laser energy powerful enough to penetrate the frontal armour of a main battle tank. It is accurate, long-ranged, and does not deplete in the manner of solid ammunition — it draws from a rechargeable power pack.
+
+Firepower:
+A single Lascannon shot can punch through the side or rear armour of almost any vehicle. Against super-heavy vehicles (e.g., Baneblades), multiple shots are required. Against infantry, the Lascannon is lethal but inefficient — use it against armoured targets. The beam travels at the speed of light, making it effectively impossible to dodge at normal combat ranges.
+
+Effective Range: 200 metres (optimal). Effective to 400 metres against stationary targets.
+Power Supply: Capacitor pack, approximately 10 shots per pack at full charge.
+Rarity: UNCOMMON. Standard heavy weapons squad issue. Not as common as the Heavy Bolter but present in most Chapter armouries.
+
+Maintenance:
+The Lascannon's focusing mirror assembly must be kept clean and correctly aligned. A misaligned mirror causes beam diffraction and dramatically reduces armour penetration. Use only approved optical cleaning solvent and a lint-free cloth. Never use a brush on the mirror surface.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — ASSAULT CANNON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Overview:
+The Assault Cannon is a rotary-barrelled cannon that fires Iridium-core penetrating rounds at an extremely high rate — far higher than any single-barrel weapon. It shreds infantry and light vehicles alike and has a modest anti-air capability. Typically mounted on Terminator assault units (borne by Terminators or attack craft), Land Speeders, and Stormraven gunships.
+
+Firepower:
+The Assault Cannon is devastating against anything short of a heavy tank. The combination of rate-of-fire and armour-piercing rounds makes it a threat to vehicle side armour and lightly armoured flyers. Against massed infantry, it is exceptionally lethal.
+
+Rate of Fire: 600+ rounds per minute (cyclic). Barrels rotate to distribute heat.
+Effective Range: 36 metres (optimal infantry suppression); up to 60 metres (anti-armour, reduced effectiveness).
+Ammunition: Belt-fed, 100 round cassette standard.
+Rarity: UNCOMMON-RARE for infantry-carried (Terminator mounted); UNCOMMON for vehicle mount.
+
+Note: The Assault Cannon generates significant heat during sustained fire. After a full magazine dump, a 60-second cool-down period is mandatory before reloading to prevent barrel warp.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — MISSILE LAUNCHER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Missile Launcher is a flexible heavy weapon that fires either Frag Missiles (anti-infantry, wide blast radius) or Krak Missiles (anti-armour, focused penetrating warhead). It is the most versatile heavy weapon available at the squad level.
+
+FRAG MISSILES: Detonating fragmentation shells. Blast radius approximately 3 metres. Effective against unarmoured and lightly armoured infantry. Minimal anti-vehicle use.
+
+KRAK MISSILES: Shaped-charge penetrating warheads. No area effect, but focused penetration. Can disable light to medium vehicle armour. Less effective than a Lascannon against heavy armour.
+
+Effective Range: 120 metres (Frag); 150 metres (Krak, optimal).
+Reload: Single-shot, manual reload after each firing. Reloading takes approximately 6 seconds.
+Rarity: COMMON. Standard issue to Devastator Marines.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5 — FLAMER & HEAVY FLAMER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FLAMER:
+Projects a stream of Promethium (incendiary chemical compound) that ignites on contact with air and adheres to surfaces. Extremely effective against unarmoured infantry, Tyranid swarms, lightly armoured xenos, and personnel in cover. The burning Promethium clings and cannot be extinguished with water — a target that is hit will continue to burn.
+
+Effective Range: 15 metres (optimal cone). No meaningful effect beyond 20 metres.
+Tank Capacity: Promethium canister for approximately 8 sustained bursts.
+Rarity: COMMON.
+
+HEAVY FLAMER:
+Vehicle or Terminator-mounted version. Larger flame cone (up to 20 metres), higher Promethium flow rate, and a shaped-charge Promethium igniter for initial blast. Particularly devastating in vehicle-supported assaults and breaching.
+Rarity: UNCOMMON.
+
+PROMETHIUM HANDLING:
+Promethium is volatile. Do not store near heat sources. Canisters should be inspected for leaks before mounting. A leaking canister is an extreme fire hazard during combat — muzzle flash or any ignition source can ignite the operator.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6 — GRAV-WEAPONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Grav-weapons fire a focussed beam of gravitational energy. The beam has an unusual property: it becomes MORE powerful the denser the target's armour. Grav rounds are notably effective against heavily armoured targets (Space Marines, Obliterators, Dreadnoughts) but relatively less effective against lightly armoured foes.
+
+GRAV-GUN: One-handed, squad-level weapon. Reduces armoured targets to crushed, immobile wrecks.
+GRAV-PISTOL: Compact sidearm. Short range, suitable for close-quarters anti-armour work.
+GRAV-CANNON (Centurion-mounted): Heavy weapon version. Full suppression of multiple vehicle targets.
+
+Rarity: RARE. Graviton technology is poorly understood even by many Techmarines. Produced in limited quantities. Reserved for veterans and specialist units.
+
+General Heavy Weapons Maintenance:
+All heavy weapons should be serviced by a qualified Techmarine after extended campaigns. Field maintenance is limited to cleaning, basic inspection, and consumable (ammo, fuel, power cell) replacement. Complex internal mechanisms should not be disassembled without Techmarine supervision and proper recitation of the Rites of Maintenance.
