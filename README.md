@@ -2,7 +2,7 @@
 
 An AI support assistant built to handle customer conversations through a simple REST API.
 
-The goal is straightforward: answer questions from documentation when possible, and create a support ticket when the problem cannot be resolved automatically.
+This is a demo project using a Warhammer 40,000-inspired knowledge base (Space Marine weaponry) as the documentation corpus — a fun way to make the sample data a bit more interesting than lorem ipsum.
 
 ## Vision
 
@@ -27,3 +27,6 @@ make dev
 The development server runs with hot reload enabled.
 
 Server default: `http://localhost:8000`
+
+# Semantic search over support documentation
+In this demo, we store the vectors as BLOBs in a standard SQLite table. When a query comes in, we pull the vectors into memory and calculate the similarity using *numpy* - the gold standard of Python math libraries.
