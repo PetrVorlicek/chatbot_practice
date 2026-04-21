@@ -4,6 +4,7 @@ from typing import Any
 
 from openai import OpenAI
 
+from ai.semantic_store import ChunkMatch, SemanticStore
 from settings import settings
 
 
@@ -30,13 +31,30 @@ class LlamaCppAgent:
         }
     )
 
+    semantic_store: SemanticStore | None = None
+
+    def _build_system_prompt(self, user_input: str) -> str:
+        if self.semantic_store is None:
+            return self.system_prompt
+
+        try:
+            matches = self.semantic_store.search(self.client, user_input, top_k=3)
+        except Exception:
+            return self.system_prompt
+
+        if not matches:
+            return self.system_prompt
+
+        return compose_prompt_with_context(self.system_prompt, matches)
+
     def invoke(self, user_input: str, **kwargs: Any) -> str:
         request_kwargs = {**self.default_kwargs, **kwargs}
+        system_prompt = self._build_system_prompt(user_input)
 
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
-                {"role": "system", "content": self.system_prompt},
+                {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_input},
             ],
             **request_kwargs,
@@ -62,11 +80,29 @@ def build_agent() -> LlamaCppAgent:
             "X-API-Key": api_key,
         },
     )
+    semantic_store = SemanticStore(settings.semantic_db_path)
 
     return LlamaCppAgent(
         client=client,
         system_prompt=BASE_SYSTEM_PROMPT,
         model=os.getenv("MODEL_NAME", "local-model"),
+        semantic_store=semantic_store,
+    )
+
+
+def compose_prompt_with_context(system_prompt: str, matches: list[ChunkMatch]) -> str:
+    sections = []
+    for idx, match in enumerate(matches, start=1):
+        sections.append(
+            f"[{idx}] source={match.source_file}\n{match.text}"
+        )
+
+    context_block = "\n\n".join(sections)
+    return (
+        f"{system_prompt}\n\n"
+        "Relevant support documentation excerpts:\n"
+        f"{context_block}\n\n"
+        "Use these excerpts when relevant. If they do not answer the question, say so clearly."
     )
 
 
