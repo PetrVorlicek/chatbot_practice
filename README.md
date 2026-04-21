@@ -24,4 +24,6 @@ The goal is straightforward: answer questions from documentation when possible, 
 make dev
 ```
 
+The development server runs with hot reload enabled.
+
 Server default: `http://localhost:8000`
