@@ -1,0 +1,91 @@
+ADEPTUS ASTARTES ARMOURY — BOLT WEAPONS FIELD HANDBOOK
+Issued by: Castellan Forges, Sanctioned Arms Division
+Classification: Standard Distribution
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — THE BOLTGUN (BOLTER)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Overview:
+The Boltgun, commonly called the Bolter, is the standard-issue primary weapon of the Adeptus Astartes. It is a .75 calibre, magazine-fed, semi-automatic weapon that fires self-propelled explosive rounds known as bolts. It is considered the quintessential weapon of the Space Marine — reliable, powerful, and capable of delivering Emperor-sanctioned death at range.
+
+Firepower:
+The Bolter fires a bolt round at high velocity using a propellant charge. The bolt's mass-reactive tip detonates AFTER penetrating armour or flesh, causing catastrophic internal damage. Against lightly armoured targets, a single bolt is almost always lethal. Against heavier armour (e.g., power armour or light vehicle plating), sustained fire or special rounds are recommended.
+
+Effective Range:
+- Standard engagement: 24 metres (close quarters) to 100 metres (optimal)
+- Maximum effective range: approximately 120 metres with standard ammunition
+- Beyond 120 metres: reduced accuracy; use Stalker variant or sniper rifle
+
+Ammunition:
+The Bolter accepts the following bolt round types:
+  - STANDARD (MASS-REACTIVE): General purpose. Penetrate and explode. Marked with a red band.
+  - KRAKEN (PENETRATOR): Adamantine core. Designed for heavy armour and vehicle hulls. Marked with a black band.
+  - HELLFIRE: Filled with mutagenic bio-acid. Highly effective against xenos and Chaos-tainted flesh. Marked with a yellow band.
+  - DRAGONFIRE: Incendiary core. Bursting radius of 0.4 metres. Used for clearing entrenched or lightly armoured groups. Marked with an orange band.
+  - TEMPEST (STALKER): Sub-sonic, reduced propellant. Nearly silent in firing. Used for covert operations. Marked with a grey band.
+  - METAL STORM: Proximity-detonating fragmentation rounds. Used against massed infantry. Marked with a blue band.
+
+Standard magazine capacity: 30 rounds.
+
+Rarity:
+COMMON — The Boltgun is mass-produced across multiple Forge Worlds, particularly by sanctioned Mechanicus armouries. Every Battle-Brother is issued one upon initiation. Resupply is standard through Chapter logistics.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — THE BOLT PISTOL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Bolt Pistol is the sidearm of choice for Astartes across all Chapters. Functionally identical to the Boltgun in round type and mechanism, the Bolt Pistol sacrifices magazine capacity (12 rounds) and effective range (30 metres optimal) in exchange for compact size. It is frequently paired with a close combat weapon.
+
+Variants:
+  - HEAVY BOLT PISTOL: Extended barrel and reinforced receiver. Used by Primaris Space Marines. Higher muzzle velocity and slightly improved range. Magazine: 10 rounds.
+  - ABSOLVOR BOLT PISTOL: Primaris variant. Larger bore, heavier shell. Optimised for CQB and breaching operations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — THE STORM BOLTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Storm Bolter is a twin-linked Bolter configuration capable of fully automatic fire. It is standard equipment for Terminators and may be mounted on vehicles or wielded one-handed by warriors in Tactical Dreadnought Armour. Rate of fire is approximately double the standard Boltgun.
+
+Magazine: 60 rounds (twin feed). Weight: significant — not suitable for unaugmented humans.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — PRIMARIS BOLT WEAPONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+With the advent of Primaris Space Marines, several new bolt weapon patterns were introduced, chambered for larger .08 Calibre rounds.
+
+  BOLT RIFLE: The primary weapon of the Intercessor. Longer barrel than the standard Bolter, improved range and accuracy. Three operating modes: standard, rapid-fire, and assault. Magazine: 20 rounds.
+
+  AUTO BOLT RIFLE: Full-automatic configuration. Reduced range in exchange for higher volume of fire. Ideal for suppression. Magazine: 20 rounds, higher rate of burn.
+
+  STALKER BOLT RIFLE: Precision semi-automatic. Fitted with a telescopic sight. Effective range extended to approximately 150 metres. Magazine: 10 rounds.
+
+  ASSAULT BOLTER: Short-barreled, rapid-fire. Carried by Inceptors. Designed for airborne assault insertion.
+
+  BOLT CARBINE: Compact, used by Reivers and Eliminators. Good balance of range and manoeuvrability.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5 — MAINTENANCE & FIELD CARE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Daily Maintenance Protocol:
+1. Remove magazine and confirm chamber is clear before any maintenance.
+2. Use a Mechanicus-approved bore brush to clear propellant residue from barrel.
+3. Flush gas vent ports with solvent GX-4 (or equivalent Martian-formula).
+4. Inspect mass-reactive trigger mechanism for obstructions. Never dry-fire with an empty magazine — the bolt feeder can crack.
+5. Apply sacred unguent (machine oil) to receiver, spring assembly, and bolt-feed ramp.
+6. Inspect magazine lips for warping. Discarded magazines should be returned to the Armoury for reprocessing.
+7. Recite the Litany of Function before each engagement.
+
+Post-Combat Maintenance:
+After sustained fire the barrel will exhibit heat bloom. Allow 20 minutes cooling before attempting field strip. In emergencies, the barrel can be swapped with a spare in approximately 45 seconds.
+
+Common Faults:
+  - DOUBLE FEED: Two rounds entering the chamber simultaneously. Clear by removing magazine, locking bolt to the rear, and clearing with a brass rod.
+  - BOLT HANG FIRE: Round enters chamber but fails to fire. Wait 30 seconds before opening bolt — the propellant may still ignite. If uncertain, eject into a containment bucket.
+  - GAS PORT FOULING: Bolt feels sluggish and cycling is incomplete. Field-clean the gas vent. In the field, fire 3-5 blank cycles to clear.
+  - BARREL EROSION: After approximately 10,000 rounds, a barrel begins to lose accuracy. Return to the Armoury for replacement.
+
+Storage:
+Boltguns should be stored with the magazine removed, chamber empty, and the weapon coated in a thin layer of preserving oil. Ammunition should be stored separately in moisture-sealed containers.

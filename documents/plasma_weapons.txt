@@ -1,0 +1,98 @@
+ADEPTUS ASTARTES ARMOURY — PLASMA WEAPONS TECHNICAL MANUAL
+Issued by: Castellan Forges, High-Energy Ordnance Division
+Classification: Standard Distribution — Plasma Safety Notice Enclosed
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WARNING — READ BEFORE USE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Plasma weapons operate at temperatures exceeding 10,000 degrees Celsius. Supercharge mode increases risk of containment failure. OVERHEATING MAY RESULT IN FATAL DETONATION. Adhere strictly to maintenance and firing protocols.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — THE PLASMA GUN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Overview:
+The Plasma Gun is a medium-range weapon that fires superheated plasma blasts capable of melting through vehicle armour and power-armoured targets with equal efficiency. It is one of the most destructive handheld weapons available to a Space Marine and is considered a force multiplier at the squad level.
+
+Firepower:
+A single plasma bolt can punch through several centimetres of ceramite or steel. At point of impact, the bolt dissipates in a burst of solar-hot energy, destroying everything within a radius of approximately 0.6 metres. Plasma fire is particularly effective against heavily armoured targets — Chaos Space Marines, armoured xenos, and lightly armoured vehicles.
+
+Operating Modes:
+  - STANDARD MODE: Fires a single plasma bolt. Moderate output. Cooling cycle between shots is approximately 3 seconds. Safe for sustained fire.
+  - SUPERCHARGE MODE: Fires a greatly enhanced bolt with nearly double the destructive potential. Cooling cycle fails to fully reset — repeated supercharged shots dramatically increase the risk of catastrophic venting (see: THERMAL RUNAWAY below). Use sparingly.
+
+Effective Range: 30 metres (optimal) to 60 metres (long range).
+Magazine: Plasma flask, capacity for approximately 12 standard shots or 6 supercharged shots.
+
+Rarity:
+UNCOMMON — Plasma Guns are produced on Forge Worlds and distributed through Chapter armouries, but not every battle-brother is issued one. Plasma weapons require a skilled operator and careful maintenance. Squads typically carry one per five marines.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — THE PLASMA PISTOL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Plasma Pistol is a compact plasma weapon suitable for officers, assault marines, and any warrior who requires devastating one-handed firepower. It fires a smaller plasma bolt than the Plasma Gun, though still capable of crippling a vehicle or killing a heavily armoured enemy at close range.
+
+Effective Range: 15 metres (optimal).
+Magazine: Compact plasma flask, 6 standard shots or 3 supercharged shots.
+Note: The Plasma Pistol is particularly prone to overheating due to its reduced cooling system. Supercharge mode is strongly discouraged in extended engagements.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — PRIMARIS PLASMA VARIANTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PLASMA INCINERATOR:
+The standard plasma weapon for Primaris Space Marines, replacing the older Plasma Gun pattern. Features an improved containment coil that reduces (but does not eliminate) supercharge risk. Slightly lower raw output than the older pattern but safer to operate.
+Variants: Assault Plasma Incinerator (faster cycling), Heavy Plasma Incinerator (higher power output, vehicle-grade threat).
+
+PLASMA EXTERMINATOR:
+Compact plasma weapon optimised for Inceptors and close-range assault roles. Very short effective range (approximately 12 metres) but excels in breaching and room clearance.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — HEAVY PLASMA WEAPONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PLASMA CANNON:
+A squad-level heavy weapon. The Plasma Cannon fires a large plasma blast with a significant blast radius (approximately 1.2 metres). Devastating against clustered infantry and light to medium vehicle armour. The Plasma Cannon requires a two-second charge cycle before firing. Must be braced.
+
+MACRO PLASMA INCINERATOR (Dreadnought-mounted):
+Vehicle-grade plasma weapon fitted to Redemptor Dreadnoughts. Nuclear-torch capable. Not issued to individual warriors.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5 — PLASMA FUEL & AMMUNITION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Plasma weapons do not use solid rounds. They consume a plasma flask: a sealed container of superheated deuterium-tritium plasma maintained in magnetic suspension.
+
+Flask Identification Codes:
+  - BLUE FLASK (Standard): Civilian-grade plasma fuel. Safe for standard mode only. Lower energy yield.
+  - RED FLASK (Astartes Military Grade): Standard issue. Supports both firing modes. Higher yield.
+  - BLACK FLASK (Omnissiah's Reserve): High-purity plasma, maximum yield. Approved for Supercharge only in emergency circumstances.
+
+NEVER use Blue Flasks in Supercharge mode. The lower-grade fuel cannot sustain the necessary containment field.
+Spent flasks should be returned to the Armoury. Do not puncture. Do not expose to open flame. If a flask is cracked, evacuate a 15-metre radius immediately and notify the Chapter's Techmarines.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6 — MAINTENANCE & THERMAL SAFETY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Field Maintenance Protocol:
+1. ALWAYS vent residual plasma through the purge valve before any maintenance. Failure to vent = death.
+2. Allow 10 minutes cooling after sustained fire before handling the magnetic coil assembly.
+3. Inspect the containment coil for hairline fractures after every 20 shots. A cracked coil must be replaced — it CANNOT be field-repaired.
+4. Clean plasma residue from the vent ports using a Mechanicus-certified thermal brush. Standard brushes will melt.
+5. Apply insulating sealing compound to all coil junction points.
+6. Replace plasma flask only when the weapon is at ambient temperature.
+7. Recite the Litany of Containment before sealing the housing.
+
+THERMAL RUNAWAY (Catastrophic Venting):
+If the weapon begins to emit a high-pitched whine, the containment housing glows orange, or the plasma breach indicator light activates — DISENGAGE IMMEDIATELY. Throw the weapon away from yourself and allies. Take cover. Detonation radius is approximately 5 metres. No field repair is possible at this stage.
+
+Prevention:
+- Never fire more than 3 supercharged shots consecutively.
+- Monitor the heat gauge at all times.
+- Use only approved plasma flasks.
+- Do not modify the firing mechanism or magnetic coil.
+
+Storage:
+Plasma weapons must be stored with flasks removed and vented. The containment coil should have an insulating cover installed. Storage temperature below 50°C. Keep away from strong magnetic fields.
