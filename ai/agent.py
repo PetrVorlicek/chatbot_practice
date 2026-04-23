@@ -1,10 +1,12 @@
 import os
+import json
 from dataclasses import dataclass, field
 from typing import Any
 
 from openai import OpenAI
 
 from ai.semantic_store import ChunkMatch, SemanticStore
+from ai_tools import AI_TOOLS, tool_registry
 from settings import settings
 
 
@@ -13,7 +15,6 @@ BASE_SYSTEM_PROMPT = (
     "Answer directly, use the provided context when available, and clearly state "
     "uncertainty instead of inventing facts."
 )
-
 
 @dataclass(slots=True)
 class LlamaCppAgent:
@@ -50,16 +51,56 @@ class LlamaCppAgent:
     def invoke(self, user_input: str, **kwargs: Any) -> str:
         request_kwargs = {**self.default_kwargs, **kwargs}
         system_prompt = self._build_system_prompt(user_input)
+        tools = request_kwargs.pop("tools", AI_TOOLS)
+        tool_choice = request_kwargs.pop("tool_choice", "auto")
+        messages: list[dict[str, Any]] = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_input},
+        ]
 
         response = self.client.chat.completions.create(
             model=self.model,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_input},
-            ],
+            messages=messages,
+            tools=tools,
+            tool_choice=tool_choice,
             **request_kwargs,
         )
-        return response.choices[0].message.content or ""
+        message = response.choices[0].message
+        tool_calls = message.tool_calls or []
+        if not tool_calls:
+            return message.content or ""
+
+        messages.append(message.model_dump(exclude_none=True))
+        for tool_call in tool_calls:
+            try:
+                tool_result = tool_registry.execute(
+                    tool_call.function.name,
+                    tool_call.function.arguments,
+                )
+            except Exception as exc:
+                tool_result = json.dumps(
+                    {
+                        "error": "tool_execution_failed",
+                        "tool_name": tool_call.function.name,
+                        "message": str(exc),
+                    }
+                )
+            messages.append(
+                {
+                    "role": "tool",
+                    "tool_call_id": tool_call.id,
+                    "content": tool_result,
+                }
+            )
+
+        follow_up = self.client.chat.completions.create(
+            model=self.model,
+            messages=messages,
+            tools=tools,
+            tool_choice=tool_choice,
+            **request_kwargs,
+        )
+        return follow_up.choices[0].message.content or ""
 
     def __call__(self, user_input: str, **kwargs: Any) -> str:
         return self.invoke(user_input, **kwargs)

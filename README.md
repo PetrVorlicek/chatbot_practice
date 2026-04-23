@@ -53,3 +53,13 @@ curl -X POST "http://localhost:8000/chat" \
 	-H "Content-Type: application/json" \
 	-d '{"user_input":"What is a bolter and when should it be used?"}'
 ```
+
+## Simple support tickets store (SQLite)
+
+There is a small Python ticket store in `db/ticket_store.py` with:
+
+- `id` (autoincrement primary key)
+- `title`
+- `description`
+- `status` (enum: `open`, `in_progress`, `resolved`, `closed`)
+- `created_at` (auto timestamp)

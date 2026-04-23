@@ -14,3 +14,6 @@ wheels/
 
 # Semantic search database
 ai/semantic_docs.sqlite3
+
+# Support tickets database
+db/tickets.sqlite3

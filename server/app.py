@@ -1,9 +1,12 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from ai.agent import agent
+from db.ticket_store import TicketStore
+from settings import settings
 
 
 app = FastAPI()
+ticket_store = TicketStore(settings.tickets_db_path)
 
 
 class ChatRequest(BaseModel):
